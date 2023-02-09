@@ -4,7 +4,7 @@ import { HomeEcranAdmReferentielsMetierComponent } from './components/home-ecran
 
 const routes: Routes = [
   {
-    path: 'ecran',
+    path: '',
     component: HomeEcranAdmReferentielsMetierComponent,
   }
 ];
